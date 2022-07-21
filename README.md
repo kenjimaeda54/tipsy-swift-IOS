@@ -1,8 +1,8 @@
 # Tipsy
-Aplicativo para dividir conta do restaurente com amigos,existe a opcao de escolher desconto entre 0,10 e 20 por cento
+Aplicativo para dividir conta do restaurante com amigos, existe a opção de escolher desconto entre 0,10 e 20 por cento
 
-# Motivacao
-Apriticar o uso de segue, MVC
+# Motivação
+Praticar o uso de segue, MVC
 
 
 ## Feature
